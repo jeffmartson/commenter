@@ -2,7 +2,7 @@
     "name": "commenter",
     "version": "0.0.1",
     "dependencies": {
-        "axios": "0.19.2",
+        "axios": "1.7.8",
         "webextension-polyfill": "0.6.0"
     },
     "devDependencies": {
